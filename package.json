@@ -1,0 +1,19 @@
+{
+  "name": "sicp",
+  "version": "1.0.0",
+  "description": "SICP JavaScript Edition",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwalsh/sicp.js.git"
+  },
+  "author": "Jason Walsh <j@wal.sh>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwalsh/sicp.js/issues"
+  },
+  "homepage": "https://github.com/jwalsh/sicp.js#readme"
+}
